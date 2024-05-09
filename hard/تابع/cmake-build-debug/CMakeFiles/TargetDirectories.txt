@@ -1,0 +1,2 @@
+D:/python/queraSolver/hard/تابع/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/python/queraSolver/hard/تابع/cmake-build-debug/CMakeFiles/rebuild_cache.dir

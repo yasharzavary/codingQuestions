@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/queraSolver.iml" filepath="$PROJECT_DIR$/.idea/queraSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/queraSolver2.iml" filepath="$PROJECT_DIR$/.idea/queraSolver2.iml" />
     </modules>
   </component>
 </project>
