@@ -46,7 +46,7 @@ int main(){
                 second_last = fill;
 //                cout<<second_last->data;
                 helper = helper->next;
-            } 
+            }
             second_last->next = nullptr;
             cout<<'1'<<endl;
             index++;
